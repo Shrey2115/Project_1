@@ -15,6 +15,9 @@ class Calculator:
     def divide(self, num1, num2):
         print(num1/(num2 * 1.0))
 
+    def mod(self, num1, num2):
+        print("IDK")
+
     # python methods except here you don't specify the return type of the method and one of the arguments of the method is the instance of the class itself
 
 
